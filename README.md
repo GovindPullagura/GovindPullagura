@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React, Redux, ChakraUI
-- 📫 How to reach me: govindpullagura@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/govind-pullagura-106bb8263/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
