@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GovindPullagura)](https://git.io/streak-stats)
-[![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=GovindPullagura)](https://github.com/GovindPullagura/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovindPullagura)](https://github.com/GovindPullagura/github-readme-stats)
