@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - Portfolio: https://govindpullagura.github.io/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-https://github-readme-streak-stats.herokuapp.com?user=govindPullagura
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govindPullagura)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GovindPullagura)](https://github.com/GovindPullagura/github-readme-stats)
