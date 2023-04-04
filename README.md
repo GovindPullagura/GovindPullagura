@@ -12,7 +12,7 @@
 - 💬 Ask me about **React**
 
 <h3 align="left">Here is my portfolio</h3>
-<a href="https://govindpullagura.github.io/" target="_blank"><p>Govind Pullagura</p></a>
+<a href="https://govindpullagura.github.io/" target="_blank"><h4>Govind Pullagura</h4></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
