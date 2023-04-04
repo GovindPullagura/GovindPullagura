@@ -10,11 +10,11 @@
 - 💬 Ask me about **React**
 
 <h3 align="left">Here is my portfolio</h3>
-<a href="https://govindpullagura.github.io/" target="blank">Govind Pullagura</a>
+<a href="https://govindpullagura.github.io/" target="_blank">Govind Pullagura</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/govind-pullagura-106bb8263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind pullagura" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/govind-pullagura-106bb8263/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govind pullagura" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
